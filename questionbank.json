@@ -1,0 +1,84 @@
+{
+    "questionBank": [
+      {
+        "question": "What is a Schmeckle?",
+        "a": "Ricks favorite food",
+        "b": "A currency",
+        "c": "The name of fly-guards",
+        "d": "Ricks Cat-person friend",
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Which of the following is NOT one of Rick catch phrases?",
+        "a": "No jumping in the sewer.",
+        "b": "GRASSSSS... tastes bad!",
+        "c": "Hit the deck, Jack!",
+        "d": "Uh ohhhh! Somersoult jump!",
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Which is the dimension of the original Rick?",
+        "a": "C-126",
+        "b": "C-132",
+        "c": "C-129",
+        "d": "C-137",
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the name of Mortys High School?",
+        "a": "Beerwah State High School",
+        "b": "Harry Herpson High School",
+        "c": "Gene Vegan High School",
+        "d": "FIU",
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the name of Jerrys favorite Rick?",
+        "a": "Doofus",
+        "b": "Roofus",
+        "c": "Goofus",
+        "d": "Rick G-506",
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the name of Ricks ex-wife?",
+        "a": "Diane",
+        "b": "Janet",
+        "c": "Joyce",
+        "d": "Ellen",
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What job does Beth have?",
+        "a": "Chef",
+        "b": "Novel Writer",
+        "c": "Astronomer",
+        "d": "Horse Surgeon",
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What does wubba lubba dub dub mean?",
+        "a": "I'm a genius",
+        "b": "Let's party",
+        "c": "Please leave",
+        "d": "I'm in great pain",
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Who killed Birdperson in a horrific turnabout during his wedding?",
+        "a": "Jerry",
+        "b": "Summer",
+        "c": "Tammy",
+        "d": "Beth",
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What species is Morty's son?",
+        "a": "Smarkian",
+        "b": "Gazorpazorp",
+        "c": "Cromulan",
+        "d": "Human",
+        "correctAnswer": "b"
+      }
+    ]
+  }

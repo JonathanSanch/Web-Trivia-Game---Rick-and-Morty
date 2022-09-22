@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./main.css">
+    <title>trivia-game</title>
+</head>
+<body>
+    <h1 id="score" style="color: #d6d3af; text-shadow: 3px 2px #000; position: absolute; top: 20px; right: 20px">Score: 0</h1>
+    <!-- were giving all the answers the same name so that HTML knows you cant choose more than one -->
+    <div class="box" id="quiz">
+    <h2 id="question">question text</h2>
+    <div class="item">
+        <!-- making an unordered list -->
+        <ul>
+            <li>
+                <!-- making an input and giving it the name answer -->
+                <input type="radio" name="answer" id="a">
+                <!-- copy and paste 3 more times for 4 options to answer -->
+                <label for="a">answer text</label>
+                
+            </li>
+            <li>
+                <!-- making an input and giving it the name answer -->
+                <input type="radio" name="answer" id="b">
+                <!-- copy and paste 3 more times for 4 options to answer -->
+                <label for="b">answer text</label>
+                
+            </li>
+            <li>
+                <!-- making an input and giving it the name answer -->
+                <input type="radio" name="answer" id="c">
+                <!-- copy and paste 3 more times for 4 options to answer -->
+                <label for="c">answer text</label>
+                
+            </li>
+            <li>
+                <!-- making an input and giving it the name answer -->
+                <input type="radio" name="answer" id="d">
+                <!-- copy and paste 3 more times for 4 options to answer -->
+                <label for="d">answer text</label>
+                
+            </li>
+            
+        </ul>
+
+    </div>
+</div>
+    <button id="submitBtn">Next</button>
+</body>
+<script type="module" src="./index.js"></script>
+</html>
+
+<!-- to publish on github is on notion -->
