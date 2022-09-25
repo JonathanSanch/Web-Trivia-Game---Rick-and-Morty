@@ -1,26 +1,17 @@
-/* want to change how css targers object */
-/* targets everything on the page */
 * {
-    /* this changes the way the margins and padding work so that the width includes the margin and padding*/
     box-sizing: border-box;
-}
-
-body {
-    /* changing the height so that it is 100% of the screen is viewing it (100 view height)*/
+  }
+  body {
     height: 100vh;
-    /* same thing but so that the page takes up 100% of the width as well (view width */
     width: 100vw;
-    /* giving this a background that is tied to a URL */
-    background: url("https://wallpapers.com/images/hd/rick-and-morty-under-the-sea-ocidh9za5jy6pao4.jpg");
-    margin: 0;
-    /* tells it to align everything to the center of the page */
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-/* this is modifying the box object within the html */
-.box {
+    background: url("https://wallpapers.com/images/hd/rick-and-morty-under-the-sea-ocidh9za5jy6pao4.jpg");
+    margin: 0;
+  }
+  
+  .box {
     background-color: rgba(198, 197, 185, 0.7);
     width: 55vw;
     min-height: 400px;
@@ -31,13 +22,11 @@ body {
     justify-content: space-between;
   }
   
-  /* this is modifying the h2 tag in the html */
   #question {
     text-align: center;
     font-size: 2rem;
   }
   
-  /* DONE! This line forward is on Notion */
   label,
   input {
     cursor: pointer;
