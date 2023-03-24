@@ -10,9 +10,10 @@ Languages Used:
 ---
 
 ### Implementation:
-This project uses the Visual Studio Code Extension Live Server to host the webpage on localhost:8080. 
-Instructions on how to use this extension can be found at the bottom of the ReadMe.
-This project uses a JSON wordbank to provide the Questions and Answers for the quiz. 
+- This project uses the Visual Studio Code Extension Live Server to host the webpage on localhost:8080. 
+- Instructions on how to use this extension can be found at the bottom of the ReadMe.
+- This project uses a JSON wordbank to provide the Questions and Answers for the quiz. 
+
 
 
 
